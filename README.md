@@ -1,6 +1,6 @@
 # gacha-prng 
 
-[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sr229/gacha-prng/blob/main/gacha_probability.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sr229/gacha-prng/master)
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sr229/gacha-prng/blob/main/gacha_probability.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sr229/gacha-prng.git/main)
 
 A Jupyter Notebook that maps the probability distribution of the Arknights RNG for Gacha rolls.
 
